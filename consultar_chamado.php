@@ -8,7 +8,7 @@
   //abrir o arquivo.hd
   $arquivo = fopen('../../app_help_desk/arquivo.hd', 'r');
 
-  //enquanto houver registros (linhas) a serem recuperado
+  //enquanto houver registros (linhas) a serem recuperados
   while(!feof($arquivo)) { //testa pelo fim de um arquivo
     //linhas  
     $registro = fgets($arquivo);

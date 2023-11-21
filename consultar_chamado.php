@@ -56,7 +56,7 @@
         <div class="card-consultar-chamado">
           <div class="card">
             <div class="card-header">
-              Consulta de Chamado
+              Consulta de Chamado: 
             </div>
             
             <div class="card-body">

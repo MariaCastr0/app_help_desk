@@ -24,7 +24,7 @@
     <nav class="navbar navbar-dark bg-dark">
       <a class="navbar-brand" href="#">
         <img src="logo.png" width="30" height="30" class="d-inline-block align-top" alt="">
-        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Earum voluptas nostrum quibusdam repellendus, libero aperiam dolorem, numquam aut cupiditate mollitia harum a. Nemo incidunt assumenda quidem, cumque ipsum quod. Ex.
+        App Help Desk
       </a>
       <ul class="navbar-nav">
         <li class="nav-item">
